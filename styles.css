@@ -1,0 +1,40 @@
+.container {
+	background-color: whitesmoke;
+	padding: 45px;
+	width: 70%;
+	border: 3px solid brown;
+	border-radius: 7px;
+}
+
+.info {
+	background-color: tomato;
+	border-radius: 3px;
+	padding: 3px;
+}
+
+h1 {
+	color: green;
+}
+
+label {
+	background-color: skyblue;
+}
+
+
+img {
+	border: 10px double peachpuff;
+	border-radius: 2px;
+}
+
+hr {
+	border-top: 4px solid green;
+}
+
+.button-row {
+	display: flex;
+	justify-content: center;
+}
+
+.btn {
+	padding: 8px 16px;
+}
